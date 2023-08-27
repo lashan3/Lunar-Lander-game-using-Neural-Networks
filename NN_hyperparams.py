@@ -1,0 +1,16 @@
+nn_lambda = 0.8
+nn_lr = 0.8
+nn_momentum = 0.5
+hidden_neurons = 2
+output_neurons = 2
+input_neurons = 2
+x1_max = 556.311
+x2_max = 558.184
+y1_max = 7.634
+y2_max = 3.105
+x1_min = -539.680
+x2_min = 65.201
+y1_min = -3.624
+y2_min = -3.030
+iterations = 2000
+training_flag = 0
